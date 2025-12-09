@@ -1,3 +1,3 @@
 # rough-spinner
 
-https://oskarrough.github.io/rough-spinner/
+https://spinner.0sk.ar/
